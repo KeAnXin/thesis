@@ -12,8 +12,9 @@ It was a pleasure!
 
 Lots of plots
 Look at them!
+They are lovely, aren't they?
 
 ## Bibliography
-
+[1] Ref
 ## Appendix
 
