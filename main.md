@@ -17,6 +17,8 @@ Yes, they are.
 
 ## Bibliography
 [1] Paper
+[2] Paper
+[3] Paper
 
 ## Appendix
 
